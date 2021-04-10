@@ -15,3 +15,5 @@ The following labs are included:
 * Local DNS Attacks
 * Secret Key Encryption
 * Public Key Infrastructure
+
+[Seed Labs 1.0](https://seedsecuritylabs.org/Labs_16.04/ "SEED Project")
